@@ -1,3 +1,6 @@
+Controls:
+WASD (Move) | X (Rotate) | Y (Scale - Grow), Shift-Y (Scale - Shrink) | K (Change Speed Modes) | Mouse (Camera) | Esc/P (Pause)
+
 Tips for each level:
 
 Level 1: Bigger size and speed can walk over pits <br>
